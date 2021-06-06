@@ -2,7 +2,11 @@
 IMPORTANT: This project uses publicly available API's via APISetu. It doesn't book slots for you.
 By default the rate limit set by the government is 100 calls per minute per IP.
 ![Screenshot](./img.jpg?raw=true)
+
+
 ## Usage
+**Leave the browser window open to receive alerts**
+
 Requirements
  * Python 3.7 or above
  * conda (optional)
