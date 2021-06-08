@@ -1,0 +1,6 @@
+{
+  "name": "Cowin Slot availability checker and alerts",
+  "description": "A python based project to check slot availability and get alerts when slots are available ",
+  "repository": "https://github.com/anaganisk/cowin-slot-availability-alerts",
+  "keywords": ["cowin", "python"]
+}
